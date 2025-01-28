@@ -1,0 +1,15 @@
+{
+  "name": "jenkins-exam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome 'tests/example.test.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "testcafe": "^3.7.1"
+  }
+}
