@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "testcafe chrome 'tests/example.test.js'"
+    "test": "testcafe chrome:headless tests/example.test.js"
   },
   "keywords": [],
   "author": "",
